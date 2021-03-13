@@ -1,0 +1,22 @@
+{
+  "name": "Our-Travel-Blog-admin",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/apollo": "^4.0.1-rc.5",
+    "graphql-tag": "^2.11.0",
+    "moment": "^2.29.1",
+    "nuxt": "^2.15.3",
+    "vuetify-confirm": "^2.0.6"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2",
+    "deepmerge": "^4.2.2"
+  }
+}
